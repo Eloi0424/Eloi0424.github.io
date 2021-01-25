@@ -1,171 +1,393 @@
 <!DOCTYPE html>
-<html>
-    <!-- Head -->
-    <head>
-    <meta http-equiv="content-type" content="text/html; charset=utf-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
-    <meta name="author" content="John Doe">
-    <meta name="description" itemprop="description" content="">
-    <meta name="keywords" content="">
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=2">
+<meta name="theme-color" content="#222">
+<meta name="generator" content="Hexo 5.3.0">
+  <link rel="apple-touch-icon" sizes="180x180" href="/images/apple-touch-logo.jpg">
+  <link rel="icon" type="image/png" sizes="32x32" href="/images/blog-logo-32x32.jpg">
+  <link rel="icon" type="image/png" sizes="16x16" href="/images/blog-logo.jpg">
+  <link rel="mask-icon" href="/images/logo.svg" color="#222">
 
-    <!-- Page Title -->
-    
-        <title>计算机科学与技术学习中的误区 | Hexo</title>
-    
-    <link rel="icon" href="/img/avatar-default.png">
-    <link rel="stylesheet" href="https://cdn.bootcss.com/font-awesome/4.7.0/css/font-awesome.css">
-    <script src="https://cdn.staticfile.org/jquery/3.2.1/jquery.min.js"></script>
-    <link href="https://cdn.bootcss.com/bootstrap/3.3.7/css/bootstrap.min.css" rel="stylesheet">
-    
-    <script src="//cdn.bootcss.com/prettify/r298/prettify.min.js" type="text/javascript"></script>
-    <link rel="stylesheet" href="/css/google-prettify-monokai.css" type="text/css">
-    
-    
-<script src="/js/script.js"></script>
+<link rel="stylesheet" href="/css/main.css">
 
-    
-<link rel="stylesheet" href="/css/style.css">
 
-    
-    <style>
-        .deactiveColor{
-            color: #37474f;
-        }
-        .activeColor{
-            color: #006064;
-        }
-        a:hover{
-            color: #006064;
-        }
-        .header-btn{
-            color: #37474f;
-        }
-        
-        .post-content img{
-            margin: 50px auto;
-        }
-        
-    </style>
-<meta name="generator" content="Hexo 5.3.0"></head>
-    <body>
-        <div class="container">
+<link rel="stylesheet" href="/lib/font-awesome/css/all.min.css">
 
-            <!-- Top Anchor -->
-            <div id="top"></div>
+<script id="hexo-configurations">
+    var NexT = window.NexT || {};
+    var CONFIG = {"hostname":"example.com","root":"/","scheme":"Muse","version":"7.8.0","exturl":false,"sidebar":{"position":"left","display":"post","padding":18,"offset":12,"onmobile":false},"copycode":{"enable":false,"show_result":false,"style":null},"back2top":{"enable":true,"sidebar":false,"scrollpercent":false},"bookmark":{"enable":false,"color":"#222","save":"auto"},"fancybox":false,"mediumzoom":false,"lazyload":false,"pangu":false,"comments":{"style":"tabs","active":null,"storage":true,"lazyload":false,"nav":null},"algolia":{"hits":{"per_page":10},"labels":{"input_placeholder":"Search for Posts","hits_empty":"We didn't find any results for the search: ${query}","hits_stats":"${hits} results found in ${time} ms"}},"localsearch":{"enable":false,"trigger":"auto","top_n_per_article":1,"unescape":false,"preload":false},"motion":{"enable":true,"async":false,"transition":{"post_block":"fadeIn","post_header":"slideDownIn","post_body":"slideDownIn","coll_header":"slideLeftIn","sidebar":"slideUpIn"}}};
+  </script>
 
-            <!-- Header -->
-            <header class="header-wrapper">
-    <div class="header-title-wrapper">
-        <!-- Page Title -->
-        <p class="header-title">
-             
-                
-                    计算机科学与技术学习中的误区
-                
-            
-        </p>  
-    </div>    
+  <meta name="description" content="计算机基础很重要，很重要，如：操作系统，计算机网络等。 没有好与坏的编程语言之分，只有什么样的语言适合什么样的应用场景。 只看不练是无法融会贯通知识的，要学会边学边练，边应用。 不要被各种框架给限制住了，要灵活多变，不要太死板。 要学会对知识进行归纳总结，记录并转化为，内化为自己的知识。  p.s. 以后上课都要养成记笔记的习惯，准备一张A4纸，从现在开始记笔记。但保持畅通的上课思路也很重要，听">
+<meta property="og:type" content="article">
+<meta property="og:title" content="计算机科学与技术学习中的误区">
+<meta property="og:url" content="http://example.com/2021/01/24/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%A7%91%E5%AD%A6%E4%B8%8E%E6%8A%80%E6%9C%AF%E5%AD%A6%E4%B9%A0%E4%B8%AD%E7%9A%84%E8%AF%AF%E5%8C%BA/index.html">
+<meta property="og:site_name" content="Hexo">
+<meta property="og:description" content="计算机基础很重要，很重要，如：操作系统，计算机网络等。 没有好与坏的编程语言之分，只有什么样的语言适合什么样的应用场景。 只看不练是无法融会贯通知识的，要学会边学边练，边应用。 不要被各种框架给限制住了，要灵活多变，不要太死板。 要学会对知识进行归纳总结，记录并转化为，内化为自己的知识。  p.s. 以后上课都要养成记笔记的习惯，准备一张A4纸，从现在开始记笔记。但保持畅通的上课思路也很重要，听">
+<meta property="og:locale" content="en_US">
+<meta property="article:published_time" content="2021-01-24T14:37:34.782Z">
+<meta property="article:modified_time" content="2021-01-25T01:53:32.730Z">
+<meta property="article:author" content="John Doe">
+<meta name="twitter:card" content="summary">
 
-    
-        <!-- Division Line -->
-        <div class="division"></div> 
-    
-    
-    <div class="header-detail">
-        <!-- Header Button -->
-        <div class="header-btn-wrapper">
-            
-                <span>
-                    <a class="home-btn header-btn" href="/" title="homepage"><i class="fa fa-home"></i></a>
-                </span>
+<link rel="canonical" href="http://example.com/2021/01/24/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%A7%91%E5%AD%A6%E4%B8%8E%E6%8A%80%E6%9C%AF%E5%AD%A6%E4%B9%A0%E4%B8%AD%E7%9A%84%E8%AF%AF%E5%8C%BA/">
 
-                
-                    <span>
-                        <a class="catalog-btn header-btn"><i class="fa fa-list-ul"></i></a>
-                    </span>
-                
-            
-        </div>
+
+<script id="page-configurations">
+  // https://hexo.io/docs/variables.html
+  CONFIG.page = {
+    sidebar: "",
+    isHome : false,
+    isPost : true,
+    lang   : 'en'
+  };
+</script>
+
+  <title>计算机科学与技术学习中的误区 | Hexo</title>
+  
+
+
+
+
+
+
+  <noscript>
+  <style>
+  .use-motion .brand,
+  .use-motion .menu-item,
+  .sidebar-inner,
+  .use-motion .post-block,
+  .use-motion .pagination,
+  .use-motion .comments,
+  .use-motion .post-header,
+  .use-motion .post-body,
+  .use-motion .collection-header { opacity: initial; }
+
+  .use-motion .site-title,
+  .use-motion .site-subtitle {
+    opacity: initial;
+    top: initial;
+  }
+
+  .use-motion .logo-line-before i { left: initial; }
+  .use-motion .logo-line-after i { right: initial; }
+  </style>
+</noscript>
+
+</head>
+
+<body itemscope itemtype="http://schema.org/WebPage">
+  <div class="container use-motion">
+    <div class="headband"></div>
+
+    <header class="header" itemscope itemtype="http://schema.org/WPHeader">
+      <div class="header-inner"><div class="site-brand-container">
+  <div class="site-nav-toggle">
+    <div class="toggle" aria-label="Toggle navigation bar">
+      <span class="toggle-line toggle-line-first"></span>
+      <span class="toggle-line toggle-line-middle"></span>
+      <span class="toggle-line toggle-line-last"></span>
     </div>
-</header>
+  </div>
 
-            <!-- Main -->
-            <main>
-                <article class="post-wrapper">
-    
+  <div class="site-meta">
+
+    <a href="/" class="brand" rel="start">
+      <span class="logo-line-before"><i></i></span>
+      <h1 class="site-title">Hexo</h1>
+      <span class="logo-line-after"><i></i></span>
+    </a>
+  </div>
+
+  <div class="site-nav-right">
+    <div class="toggle popup-trigger">
+    </div>
+  </div>
+</div>
+
+
+
+
+<nav class="site-nav">
+  <ul id="menu" class="main-menu menu">
+        <li class="menu-item menu-item-home">
+
+    <a href="/" rel="section"><i class="fa fa-home fa-fw"></i>Home</a>
+
+  </li>
+        <li class="menu-item menu-item-archives">
+
+    <a href="/archives/" rel="section"><i class="fa fa-archive fa-fw"></i>Archives</a>
+
+  </li>
+  </ul>
+</nav>
+
+
+
+
+</div>
+    </header>
 
     
-        <!-- Article Catalog -->
-        <div class="catalog-dropdown col-xs-12 col-sm-12">
+  <div class="back-to-top">
+    <i class="fa fa-arrow-up"></i>
+    <span>0%</span>
+  </div>
+
+
+    <main class="main">
+      <div class="main-inner">
+        <div class="content-wrap">
+          
+
+          <div class="content post posts-expand">
             
+
+    
+  
+  
+  <article itemscope itemtype="http://schema.org/Article" class="post-block" lang="en">
+    <link itemprop="mainEntityOfPage" href="http://example.com/2021/01/24/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%A7%91%E5%AD%A6%E4%B8%8E%E6%8A%80%E6%9C%AF%E5%AD%A6%E4%B9%A0%E4%B8%AD%E7%9A%84%E8%AF%AF%E5%8C%BA/">
+
+    <span hidden itemprop="author" itemscope itemtype="http://schema.org/Person">
+      <meta itemprop="image" content="/images/avatar.gif">
+      <meta itemprop="name" content="John Doe">
+      <meta itemprop="description" content="">
+    </span>
+
+    <span hidden itemprop="publisher" itemscope itemtype="http://schema.org/Organization">
+      <meta itemprop="name" content="Hexo">
+    </span>
+      <header class="post-header">
+        <h1 class="post-title" itemprop="name headline">
+          计算机科学与技术学习中的误区
+        </h1>
+
+        <div class="post-meta">
+            <span class="post-meta-item">
+              <span class="post-meta-item-icon">
+                <i class="far fa-calendar"></i>
+              </span>
+              <span class="post-meta-item-text">Posted on</span>
+
+              <time title="Created: 2021-01-24 22:37:34" itemprop="dateCreated datePublished" datetime="2021-01-24T22:37:34+08:00">2021-01-24</time>
+            </span>
+              <span class="post-meta-item">
+                <span class="post-meta-item-icon">
+                  <i class="far fa-calendar-check"></i>
+                </span>
+                <span class="post-meta-item-text">Edited on</span>
+                <time title="Modified: 2021-01-25 09:53:32" itemprop="dateModified" datetime="2021-01-25T09:53:32+08:00">2021-01-25</time>
+              </span>
+
+          
+
         </div>
-    
+      </header>
 
     
-        <!--For now, Lightbox Only Show in Post Layout -->
-        
-
-        
-        
     
-
     
+    <div class="post-body" itemprop="articleBody">
 
-    <!-- Article Content -->
-    <div class="post-content">
-        <p>-</p>
-<ol>
+      
+        <ol>
 <li>计算机基础很重要，很重要，如：操作系统，计算机网络等。</li>
-<li>没有好与坏的编程语言之分，只有什么</li>
+<li>没有好与坏的编程语言之分，只有什么样的语言适合什么样的应用场景。</li>
+<li>只看不练是无法融会贯通知识的，要学会边学边练，边应用。</li>
+<li>不要被各种框架给限制住了，要灵活多变，不要太死板。</li>
+<li>要学会对知识进行归纳总结，记录并转化为，内化为自己的知识。</li>
+</ol>
+<p>p.s. 以后上课都要养成记笔记的习惯，准备一张A4纸，从现在开始记笔记。<br>但保持畅通的上课思路也很重要，听课为主，记笔记只是提炼，凝练知识。</p>
+<ol start="6">
+<li>学知识要学会注重理解中记忆，不要死记硬背。</li>
+<li>要学会面对错误，积极纠错，才能进步。</li>
+<li>要学会合作，共同进步，学会分享。</li>
+<li>要有坚定的目标，不要好高骛远一下学太多，要精通。</li>
+<li>收藏从未停止，学习从未开始。</li>
+<li>数学很重要，但不绝对重要。</li>
 </ol>
 <p>学习总结自 <a target="_blank" rel="noopener" href="https://www.bilibili.com/video/BV1h54y117DX">19年程序老司机忠告</a></p>
+
+    </div>
+
+    
+    
+    
+
+      <footer class="post-footer">
+
+        
+
+
+        
+    <div class="post-nav">
+      <div class="post-nav-item">
+    <a href="/2021/01/24/my_blog_introduction/" rel="prev" title="博客介绍">
+      <i class="fa fa-chevron-left"></i> 博客介绍
+    </a></div>
+      <div class="post-nav-item"></div>
+    </div>
+      </footer>
+    
+  </article>
   
-    </div> 
-
-    
-        <!-- Division Line -->
-        <div class="division"></div> 
-    
-
-    <div class="post-info-wrapper">
-            
-                    <!-- Post Info -->
-                    <p class="post-date">2021-01-24</p>
-                    
-                    
-                        <p class="post-info-categories">
-                            
-                        </p>
-                    
-
-                    
-            
-    </div>
-</article>
+  
+  
 
 
-    
 
-            </main>
+          </div>
+          
 
-            <!-- 'To Top' Btn-->
-            
-                <div id="to-top">
-    <a href="#top" class="toTop">
-        <i class="fa fa-pagelines"></i>
-    </a>
-</div>
-            
+<script>
+  window.addEventListener('tabs:register', () => {
+    let { activeClass } = CONFIG.comments;
+    if (CONFIG.comments.storage) {
+      activeClass = localStorage.getItem('comments_active') || activeClass;
+    }
+    if (activeClass) {
+      let activeTab = document.querySelector(`a[href="#comment-${activeClass}"]`);
+      if (activeTab) {
+        activeTab.click();
+      }
+    }
+  });
+  if (CONFIG.comments.storage) {
+    window.addEventListener('tabs:click', event => {
+      if (!event.target.matches('.tabs-comment .tab-content .tab-pane')) return;
+      let commentClass = event.target.classList[1];
+      localStorage.setItem('comments_active', commentClass);
+    });
+  }
+</script>
 
-            <!-- Footer -->
-            
-                <footer class="footer-wrapper col-xs-12 col-sm-12">
-    <div class="footer-banner-wrapper">
-        <p class="footer-banner">Powered by <a target="_blank" rel="noopener" href="https://hexo.io/" title="Hexo">Hexo</a></p>
-        <P class="footer-banner">Theme <a target="_blank" rel="noopener" href="https://github.com/Lonezj/hexo-theme-wind" title="Wind">wind</a></P>
-    </div>
-</footer>
-            
         </div>
-    </body>
+          
+  
+  <div class="toggle sidebar-toggle">
+    <span class="toggle-line toggle-line-first"></span>
+    <span class="toggle-line toggle-line-middle"></span>
+    <span class="toggle-line toggle-line-last"></span>
+  </div>
+
+  <aside class="sidebar">
+    <div class="sidebar-inner">
+
+      <ul class="sidebar-nav motion-element">
+        <li class="sidebar-nav-toc">
+          Table of Contents
+        </li>
+        <li class="sidebar-nav-overview">
+          Overview
+        </li>
+      </ul>
+
+      <!--noindex-->
+      <div class="post-toc-wrap sidebar-panel">
+      </div>
+      <!--/noindex-->
+
+      <div class="site-overview-wrap sidebar-panel">
+        <div class="site-author motion-element" itemprop="author" itemscope itemtype="http://schema.org/Person">
+  <p class="site-author-name" itemprop="name">John Doe</p>
+  <div class="site-description" itemprop="description"></div>
+</div>
+<div class="site-state-wrap motion-element">
+  <nav class="site-state">
+      <div class="site-state-item site-state-posts">
+          <a href="/archives/">
+        
+          <span class="site-state-item-count">2</span>
+          <span class="site-state-item-name">posts</span>
+        </a>
+      </div>
+  </nav>
+</div>
+
+
+
+      </div>
+
+    </div>
+  </aside>
+  <div id="sidebar-dimmer"></div>
+
+
+      </div>
+    </main>
+
+    <footer class="footer">
+      <div class="footer-inner">
+        
+
+        
+
+<div class="copyright">
+  
+  &copy; 
+  <span itemprop="copyrightYear">2021</span>
+  <span class="with-love">
+    <i class="fa fa-heart"></i>
+  </span>
+  <span class="author" itemprop="copyrightHolder">John Doe</span>
+</div>
+  <div class="powered-by">Powered by <a href="https://hexo.io/" class="theme-link" rel="noopener" target="_blank">Hexo</a> & <a href="https://muse.theme-next.org/" class="theme-link" rel="noopener" target="_blank">NexT.Muse</a>
+  </div>
+
+        
+
+
+
+
+
+
+
+
+      </div>
+    </footer>
+  </div>
+
+  
+  <script src="/lib/anime.min.js"></script>
+  <script src="/lib/velocity/velocity.min.js"></script>
+  <script src="/lib/velocity/velocity.ui.min.js"></script>
+
+<script src="/js/utils.js"></script>
+
+<script src="/js/motion.js"></script>
+
+
+<script src="/js/schemes/muse.js"></script>
+
+
+<script src="/js/next-boot.js"></script>
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+  
+
+</body>
 </html>
