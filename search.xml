@@ -1,6 +1,38 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title>博客介绍</title>
+    <url>/2021/01/24/my_blog_introduction/</url>
+    <content><![CDATA[<h3 id="眼里有光，才能不忘记来时的方向"><a href="#眼里有光，才能不忘记来时的方向" class="headerlink" title="眼里有光，才能不忘记来时的方向"></a>眼里有光，才能不忘记来时的方向</h3><h4 id="blog主要方向"><a href="#blog主要方向" class="headerlink" title="blog主要方向"></a>blog主要方向</h4><h5 id="1-学习笔记"><a href="#1-学习笔记" class="headerlink" title="1.学习笔记"></a>1.学习笔记</h5><p>这里会记录一些我在学习中的</p>
+<a id="more"></a>
+
+<h5 id="2-学习感悟"><a href="#2-学习感悟" class="headerlink" title="2.学习感悟"></a>2.学习感悟</h5><h5 id="3-生活感悟"><a href="#3-生活感悟" class="headerlink" title="3.生活感悟"></a>3.生活感悟</h5>]]></content>
+  </entry>
+  <entry>
+    <title>计算机科学与技术学习中的误区</title>
+    <url>/2021/01/24/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%A7%91%E5%AD%A6%E4%B8%8E%E6%8A%80%E6%9C%AF%E5%AD%A6%E4%B9%A0%E4%B8%AD%E7%9A%84%E8%AF%AF%E5%8C%BA/</url>
+    <content><![CDATA[<ol>
+<li>计算机基础很重要，很重要，如：操作系统，计算机网络等。</li>
+<li>没有好与坏的编程语言之分，只有什么样的语言适合什么样的应用场景。</li>
+<li>只看不练是无法融会贯通知识的，要学会边学边练，边应用。</li>
+<li>不要被各种框架给限制住了，要灵活多变，不要太死板。</li>
+<li>要学会对知识进行归纳总结，记录并转化为，内化为自己的知识。</li>
+</ol>
+<p>p.s. 以后上课都要养成记笔记的习惯，准备一张A4纸，从现在开始记笔记。<br>但保持畅通的上课思路也很重要，听课为主，记笔记只是提炼，凝练知识。</p>
+<a id="more"></a>
+
+<ol start="6">
+<li>学知识要学会注重理解中记忆，不要死记硬背。</li>
+<li>要学会面对错误，积极纠错，才能进步。</li>
+<li>要学会合作，共同进步，学会分享。</li>
+<li>要有坚定的目标，不要好高骛远一下学太多，要精通。</li>
+<li>收藏从未停止，学习从未开始。</li>
+<li>数学很重要，但不绝对重要。</li>
+</ol>
+<p>学习总结自 <a href="https://www.bilibili.com/video/BV1h54y117DX">19年程序老司机忠告</a></p>
+]]></content>
+  </entry>
+  <entry>
     <title>blog-基于hexo博客框架的开发笔记</title>
     <url>/2021/01/25/blog-%E5%9F%BA%E4%BA%8Ehexo%E5%8D%9A%E5%AE%A2%E6%A1%86%E6%9E%B6%E7%9A%84%E5%BC%80%E5%8F%91%E7%AC%94%E8%AE%B0/</url>
     <content><![CDATA[<ol>
@@ -35,10 +67,10 @@
 <li>博客远端部署：<ul>
 <li>创建repository：注意名字必须为你的Github用户名.github.io</li>
 <li>配置 SSH key</li>
-<li>测试是否成功：ssh -T <a href="mailto:&#103;&#x69;&#116;&#x40;&#x67;&#x69;&#116;&#104;&#x75;&#x62;&#46;&#99;&#x6f;&#x6d;">&#103;&#x69;&#116;&#x40;&#x67;&#x69;&#116;&#104;&#x75;&#x62;&#46;&#99;&#x6f;&#x6d;</a></li>
+<li>测试是否成功：ssh -T <a href="mailto:&#x67;&#105;&#116;&#64;&#103;&#105;&#x74;&#104;&#x75;&#98;&#46;&#x63;&#111;&#x6d;">&#x67;&#105;&#116;&#64;&#103;&#105;&#x74;&#104;&#x75;&#98;&#46;&#x63;&#111;&#x6d;</a></li>
 <li>配置 Git 提交的用户信息： <ol>
 <li>git config –global user.name “Sanarous” // 你的github用户名，非昵称</li>
-<li>git config –global user.email  “<a href="mailto:&#120;&#x78;&#120;&#x40;&#x71;&#x71;&#x2e;&#99;&#111;&#x6d;">&#120;&#x78;&#120;&#x40;&#x71;&#x71;&#x2e;&#99;&#111;&#x6d;</a>“ // 填写你的github注册邮箱</li>
+<li>git config –global user.email  “<a href="mailto:&#120;&#120;&#120;&#x40;&#x71;&#x71;&#46;&#x63;&#x6f;&#x6d;">&#120;&#120;&#120;&#x40;&#x71;&#x71;&#46;&#x63;&#x6f;&#x6d;</a>“ // 填写你的github注册邮箱</li>
 </ol>
 </li>
 <li>将 Hexo 博客部署到 Github 上</li>
@@ -47,37 +79,5 @@
 </ol>
 <p>这里推荐一个非常好的blog搭建教程<a href="https://blog.bestzuo.cn/posts/blog-establish.html">Hexo博客+Next主题深度优化与定制</a>  </p>
 ]]></content>
-  </entry>
-  <entry>
-    <title>计算机科学与技术学习中的误区</title>
-    <url>/2021/01/24/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%A7%91%E5%AD%A6%E4%B8%8E%E6%8A%80%E6%9C%AF%E5%AD%A6%E4%B9%A0%E4%B8%AD%E7%9A%84%E8%AF%AF%E5%8C%BA/</url>
-    <content><![CDATA[<ol>
-<li>计算机基础很重要，很重要，如：操作系统，计算机网络等。</li>
-<li>没有好与坏的编程语言之分，只有什么样的语言适合什么样的应用场景。</li>
-<li>只看不练是无法融会贯通知识的，要学会边学边练，边应用。</li>
-<li>不要被各种框架给限制住了，要灵活多变，不要太死板。</li>
-<li>要学会对知识进行归纳总结，记录并转化为，内化为自己的知识。</li>
-</ol>
-<p>p.s. 以后上课都要养成记笔记的习惯，准备一张A4纸，从现在开始记笔记。<br>但保持畅通的上课思路也很重要，听课为主，记笔记只是提炼，凝练知识。</p>
-<a id="more"></a>
-
-<ol start="6">
-<li>学知识要学会注重理解中记忆，不要死记硬背。</li>
-<li>要学会面对错误，积极纠错，才能进步。</li>
-<li>要学会合作，共同进步，学会分享。</li>
-<li>要有坚定的目标，不要好高骛远一下学太多，要精通。</li>
-<li>收藏从未停止，学习从未开始。</li>
-<li>数学很重要，但不绝对重要。</li>
-</ol>
-<p>学习总结自 <a href="https://www.bilibili.com/video/BV1h54y117DX">19年程序老司机忠告</a></p>
-]]></content>
-  </entry>
-  <entry>
-    <title>博客介绍</title>
-    <url>/2021/01/24/my_blog_introduction/</url>
-    <content><![CDATA[<h3 id="眼里有光，才能不忘记来时的方向"><a href="#眼里有光，才能不忘记来时的方向" class="headerlink" title="眼里有光，才能不忘记来时的方向"></a>眼里有光，才能不忘记来时的方向</h3><h4 id="blog主要方向"><a href="#blog主要方向" class="headerlink" title="blog主要方向"></a>blog主要方向</h4><h5 id="1-学习笔记"><a href="#1-学习笔记" class="headerlink" title="1.学习笔记"></a>1.学习笔记</h5><p>这里会记录一些我在学习中的</p>
-<a id="more"></a>
-
-<h5 id="2-学习感悟"><a href="#2-学习感悟" class="headerlink" title="2.学习感悟"></a>2.学习感悟</h5><h5 id="3-生活感悟"><a href="#3-生活感悟" class="headerlink" title="3.生活感悟"></a>3.生活感悟</h5>]]></content>
   </entry>
 </search>
