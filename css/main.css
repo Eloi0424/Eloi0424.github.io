@@ -1175,7 +1175,7 @@ pre .javascript .function {
 }
 .links-of-author a::before,
 .links-of-author span.exturl::before {
-  background: #1dff40;
+  background: #cb40b6;
   border-radius: 50%;
   content: ' ';
   display: inline-block;
@@ -2744,4 +2744,16 @@ body {
     background-image: url("https://ziyuan.lruihao.cn/images/bg_cell.png");
     background-size: cover;
   }
+}
+#veditor {
+  background-image: url("https://cdn.jsdelivr.net/gh/drew233/cdn/20200409110727.webp");
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-position: right;
+  background-color: rgba(255,255,255,0);
+  resize: vertical;
+}
+#veditor:focus {
+  background-position-y: 200px;
+  transition: all 0.2s ease-in-out 0s;
 }
