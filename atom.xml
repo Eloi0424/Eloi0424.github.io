@@ -6,7 +6,7 @@
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2021-01-26T02:14:14.000Z</updated>
+  <updated>2021-01-31T03:02:38.000Z</updated>
   <id>http://example.com/</id>
   
   <author>
@@ -15,49 +15,6 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
-  
-  <entry>
-    <title>博客介绍</title>
-    <link href="http://example.com/2021/07/21/my_blog_introduction/"/>
-    <id>http://example.com/2021/07/21/my_blog_introduction/</id>
-    <published>2021-07-21T14:32:08.023Z</published>
-    <updated>2021-01-26T02:14:14.000Z</updated>
-    
-    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><h3 id="眼里有光，才能不忘记来时的方向"><a href="#眼里有光，才能不忘记来时的方向" class="headerlink" title="眼里有光，才能不忘记来时的方向"></a>眼里有光，才能不忘记来时的方向</h3><h4 id="blog主要方向"><a href="#blog主要方向" class="headerlink" title="blog主要方向"></a>blog主要方向</h4><h5 id="1-学习笔记"><a href="#1-学习笔记" class="headerlink" title="1.学习笔记"></a>1.学习笔记</h5><p>这里会记录一些我在学习中的</p><a id="more"></a><h5 id="2-学习感悟"><a href="#2-学习感悟" class="headerlink" title="2.学习感悟"></a>2.学习感悟</h5><h5 id="3-生活感悟"><a href="#3-生活感悟" class="headerlink" title="3.生活感悟"></a>3.生活感悟</h5>]]></content>
-    
-    
-    <summary type="html">&lt;h3 id=&quot;眼里有光，才能不忘记来时的方向&quot;&gt;&lt;a href=&quot;#眼里有光，才能不忘记来时的方向&quot; class=&quot;headerlink&quot; title=&quot;眼里有光，才能不忘记来时的方向&quot;&gt;&lt;/a&gt;眼里有光，才能不忘记来时的方向&lt;/h3&gt;&lt;h4 id=&quot;blog主要方向&quot;&gt;&lt;a href=&quot;#blog主要方向&quot; class=&quot;headerlink&quot; title=&quot;blog主要方向&quot;&gt;&lt;/a&gt;blog主要方向&lt;/h4&gt;&lt;h5 id=&quot;1-学习笔记&quot;&gt;&lt;a href=&quot;#1-学习笔记&quot; class=&quot;headerlink&quot; title=&quot;1.学习笔记&quot;&gt;&lt;/a&gt;1.学习笔记&lt;/h5&gt;&lt;p&gt;这里会记录一些我在学习中的&lt;/p&gt;</summary>
-    
-    
-    
-    
-  </entry>
-  
-  <entry>
-    <title>let&#39;s do it</title>
-    <link href="http://example.com/2021/07/21/%E5%89%8D%E7%AB%AF%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/"/>
-    <id>http://example.com/2021/07/21/%E5%89%8D%E7%AB%AF%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/</id>
-    <published>2021-07-21T14:32:08.023Z</published>
-    <updated>2021-07-22T14:35:23.002Z</updated>
-    
-    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><ol><li>标签：<ul><li>标题标签：<pre><code>     &lt;h1&gt; &lt;/h1&gt;最大     ~     &lt;h6&gt; &lt;/h6&gt;最小</code></pre></li><li>段落标签：<pre><code>     &lt;p&gt; &lt;p&gt;</code></pre></li><li>换行标签：<pre><code>     &lt;br/&gt;     为自闭合标签</code></pre><a id="more"></a></li><li>文本格式化标签：<pre><code>    1. 加粗 blod       &lt;b&gt;...&lt;/b&gt;    2. 倾斜 incline       &lt;i&gt;...&lt;/i&gt;    3. 删除 strike out       &lt;s&gt;...&lt;/s&gt;    4. 下划线 underline       &lt;u&gt;...&lt;/u&gt;</code></pre></li><li>盒子标签 用来布局<pre><code>    1.     &lt;div&gt;...&lt;/div&gt;    大盒子独占一行    division 分割，分区    2.     &lt;span&gt;...&lt;/span&gt;    小盒子，中间隔一个空格    span，跨度，跨距</code></pre></li><li>图像标签<pre><code>    &lt;img /&gt;    为自闭合标签</code></pre></li><li>图像标签的其他属性<pre><code>    1. src 图片路径 提示图片地址</code></pre></li></ul></li></ol>]]></content>
-    
-    
-    <summary type="html">&lt;ol&gt;
-&lt;li&gt;标签：&lt;ul&gt;
-&lt;li&gt;标题标签：&lt;pre&gt;&lt;code&gt;     &amp;lt;h1&amp;gt; &amp;lt;/h1&amp;gt;最大
-     ~
-     &amp;lt;h6&amp;gt; &amp;lt;/h6&amp;gt;最小&lt;/code&gt;&lt;/pre&gt;
-&lt;/li&gt;
-&lt;li&gt;段落标签：&lt;pre&gt;&lt;code&gt;     &amp;lt;p&amp;gt; &amp;lt;p&amp;gt;&lt;/code&gt;&lt;/pre&gt;
-&lt;/li&gt;
-&lt;li&gt;换行标签：&lt;pre&gt;&lt;code&gt;     &amp;lt;br/&amp;gt;
-     为自闭合标签&lt;/code&gt;&lt;/pre&gt;</summary>
-    
-    
-    
-    
-  </entry>
   
   <entry>
     <title>blog-基于hexo博客框架的开发笔记</title>
@@ -93,6 +50,32 @@
   </entry>
   
   <entry>
+    <title>前端学习笔记</title>
+    <link href="http://example.com/2021/07/21/%E5%89%8D%E7%AB%AF%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/"/>
+    <id>http://example.com/2021/07/21/%E5%89%8D%E7%AB%AF%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/</id>
+    <published>2021-07-21T14:32:08.023Z</published>
+    <updated>2021-07-22T14:39:06.905Z</updated>
+    
+    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><ol><li>标签：<ul><li>标题标签：<pre><code>     &lt;h1&gt; &lt;/h1&gt;最大     ~     &lt;h6&gt; &lt;/h6&gt;最小</code></pre></li><li>段落标签：<pre><code>     &lt;p&gt; &lt;p&gt;</code></pre></li><li>换行标签：<pre><code>     &lt;br/&gt;     为自闭合标签</code></pre><a id="more"></a></li><li>文本格式化标签：<pre><code>    1. 加粗 blod       &lt;b&gt;...&lt;/b&gt;    2. 倾斜 incline       &lt;i&gt;...&lt;/i&gt;    3. 删除 strike out       &lt;s&gt;...&lt;/s&gt;    4. 下划线 underline       &lt;u&gt;...&lt;/u&gt;</code></pre></li><li>盒子标签 用来布局<pre><code>    1.     &lt;div&gt;...&lt;/div&gt;    大盒子独占一行    division 分割，分区    2.     &lt;span&gt;...&lt;/span&gt;    小盒子，中间隔一个空格    span，跨度，跨距</code></pre></li><li>图像标签<pre><code>    &lt;img /&gt;    为自闭合标签</code></pre></li><li>图像标签的其他属性<pre><code>    1. src 图片路径 提示图片地址</code></pre></li></ul></li></ol>]]></content>
+    
+    
+    <summary type="html">&lt;ol&gt;
+&lt;li&gt;标签：&lt;ul&gt;
+&lt;li&gt;标题标签：&lt;pre&gt;&lt;code&gt;     &amp;lt;h1&amp;gt; &amp;lt;/h1&amp;gt;最大
+     ~
+     &amp;lt;h6&amp;gt; &amp;lt;/h6&amp;gt;最小&lt;/code&gt;&lt;/pre&gt;
+&lt;/li&gt;
+&lt;li&gt;段落标签：&lt;pre&gt;&lt;code&gt;     &amp;lt;p&amp;gt; &amp;lt;p&amp;gt;&lt;/code&gt;&lt;/pre&gt;
+&lt;/li&gt;
+&lt;li&gt;换行标签：&lt;pre&gt;&lt;code&gt;     &amp;lt;br/&amp;gt;
+     为自闭合标签&lt;/code&gt;&lt;/pre&gt;</summary>
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
     <title>计算机科学与技术学习中的误区</title>
     <link href="http://example.com/2021/07/21/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%A7%91%E5%AD%A6%E4%B8%8E%E6%8A%80%E6%9C%AF%E5%AD%A6%E4%B9%A0%E4%B8%AD%E7%9A%84%E8%AF%AF%E5%8C%BA/"/>
     <id>http://example.com/2021/07/21/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%A7%91%E5%AD%A6%E4%B8%8E%E6%8A%80%E6%9C%AF%E5%AD%A6%E4%B9%A0%E4%B8%AD%E7%9A%84%E8%AF%AF%E5%8C%BA/</id>
@@ -110,6 +93,23 @@
 &lt;li&gt;要学会对知识进行归纳总结，记录并转化为，内化为自己的知识。&lt;/li&gt;
 &lt;/ol&gt;
 &lt;p&gt;p.s. 以后上课都要养成记笔记的习惯，准备一张A4纸，从现在开始记笔记。&lt;br&gt;但保持畅通的上课思路也很重要，听课为主，记笔记只是提炼，凝练知识。&lt;/p&gt;</summary>
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>博客介绍</title>
+    <link href="http://example.com/2021/07/21/my_blog_introduction/"/>
+    <id>http://example.com/2021/07/21/my_blog_introduction/</id>
+    <published>2021-07-21T14:32:08.023Z</published>
+    <updated>2021-01-26T02:14:14.000Z</updated>
+    
+    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><h3 id="眼里有光，才能不忘记来时的方向"><a href="#眼里有光，才能不忘记来时的方向" class="headerlink" title="眼里有光，才能不忘记来时的方向"></a>眼里有光，才能不忘记来时的方向</h3><h4 id="blog主要方向"><a href="#blog主要方向" class="headerlink" title="blog主要方向"></a>blog主要方向</h4><h5 id="1-学习笔记"><a href="#1-学习笔记" class="headerlink" title="1.学习笔记"></a>1.学习笔记</h5><p>这里会记录一些我在学习中的</p><a id="more"></a><h5 id="2-学习感悟"><a href="#2-学习感悟" class="headerlink" title="2.学习感悟"></a>2.学习感悟</h5><h5 id="3-生活感悟"><a href="#3-生活感悟" class="headerlink" title="3.生活感悟"></a>3.生活感悟</h5>]]></content>
+    
+    
+    <summary type="html">&lt;h3 id=&quot;眼里有光，才能不忘记来时的方向&quot;&gt;&lt;a href=&quot;#眼里有光，才能不忘记来时的方向&quot; class=&quot;headerlink&quot; title=&quot;眼里有光，才能不忘记来时的方向&quot;&gt;&lt;/a&gt;眼里有光，才能不忘记来时的方向&lt;/h3&gt;&lt;h4 id=&quot;blog主要方向&quot;&gt;&lt;a href=&quot;#blog主要方向&quot; class=&quot;headerlink&quot; title=&quot;blog主要方向&quot;&gt;&lt;/a&gt;blog主要方向&lt;/h4&gt;&lt;h5 id=&quot;1-学习笔记&quot;&gt;&lt;a href=&quot;#1-学习笔记&quot; class=&quot;headerlink&quot; title=&quot;1.学习笔记&quot;&gt;&lt;/a&gt;1.学习笔记&lt;/h5&gt;&lt;p&gt;这里会记录一些我在学习中的&lt;/p&gt;</summary>
     
     
     
