@@ -1,72 +1,159 @@
 <?xml version="1.0" encoding="utf-8"?>
-<search> 
-  
-  
-    
-    <entry>
-      <title>前端学习笔记</title>
-      <link href="/2021/07/21/%E5%89%8D%E7%AB%AF%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/"/>
-      <url>/2021/07/21/%E5%89%8D%E7%AB%AF%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/</url>
-      
-        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><ol><li>标签：<ul><li>标题标签：<pre><code>     &lt;h1&gt; &lt;/h1&gt;最大     ~     &lt;h6&gt; &lt;/h6&gt;最小</code></pre></li><li>段落标签：<pre><code>     &lt;p&gt; &lt;p&gt;</code></pre></li><li>换行标签：<pre><code>     &lt;br/&gt;     为自闭合标签</code></pre><a id="more"></a></li><li>文本格式化标签：<pre><code>    1. 加粗 blod       &lt;b&gt;...&lt;/b&gt;    2. 倾斜 incline       &lt;i&gt;...&lt;/i&gt;    3. 删除 strike out       &lt;s&gt;...&lt;/s&gt;    4. 下划线 underline       &lt;u&gt;...&lt;/u&gt;</code></pre></li><li>盒子标签 用来布局<pre><code>    1.     &lt;div&gt;...&lt;/div&gt;    大盒子独占一行    division 分割，分区    2.     &lt;span&gt;...&lt;/span&gt;    小盒子，中间隔一个空格    span，跨度，跨距</code></pre></li><li>图像标签<pre><code>    &lt;img /&gt;    为自闭合标签</code></pre></li><li>图像标签的其他属性<pre><code>    1. src 图片路径 提示图片地址</code></pre></li></ul></li></ol>]]></content>
-      
-      
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>博客介绍</title>
-      <link href="/2021/07/21/my_blog_introduction/"/>
-      <url>/2021/07/21/my_blog_introduction/</url>
-      
-        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><h3 id="眼里有光，才能不忘记来时的方向"><a href="#眼里有光，才能不忘记来时的方向" class="headerlink" title="眼里有光，才能不忘记来时的方向"></a>眼里有光，才能不忘记来时的方向</h3><h4 id="blog主要方向"><a href="#blog主要方向" class="headerlink" title="blog主要方向"></a>blog主要方向</h4><h5 id="1-学习笔记"><a href="#1-学习笔记" class="headerlink" title="1.学习笔记"></a>1.学习笔记</h5><p>这里会记录一些我在学习中的</p><a id="more"></a><h5 id="2-学习感悟"><a href="#2-学习感悟" class="headerlink" title="2.学习感悟"></a>2.学习感悟</h5><h5 id="3-生活感悟"><a href="#3-生活感悟" class="headerlink" title="3.生活感悟"></a>3.生活感悟</h5>]]></content>
-      
-      
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>计算机科学与技术学习中的误区</title>
-      <link href="/2021/07/21/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%A7%91%E5%AD%A6%E4%B8%8E%E6%8A%80%E6%9C%AF%E5%AD%A6%E4%B9%A0%E4%B8%AD%E7%9A%84%E8%AF%AF%E5%8C%BA/"/>
-      <url>/2021/07/21/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%A7%91%E5%AD%A6%E4%B8%8E%E6%8A%80%E6%9C%AF%E5%AD%A6%E4%B9%A0%E4%B8%AD%E7%9A%84%E8%AF%AF%E5%8C%BA/</url>
-      
-        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><ol><li>计算机基础很重要，很重要，如：操作系统，计算机网络等。</li><li>没有好与坏的编程语言之分，只有什么样的语言适合什么样的应用场景。</li><li>只看不练是无法融会贯通知识的，要学会边学边练，边应用。</li><li>不要被各种框架给限制住了，要灵活多变，不要太死板。</li><li>要学会对知识进行归纳总结，记录并转化为，内化为自己的知识。</li></ol><p>p.s. 以后上课都要养成记笔记的习惯，准备一张A4纸，从现在开始记笔记。<br>但保持畅通的上课思路也很重要，听课为主，记笔记只是提炼，凝练知识。</p><a id="more"></a><ol start="6"><li>学知识要学会注重理解中记忆，不要死记硬背。</li><li>要学会面对错误，积极纠错，才能进步。</li><li>要学会合作，共同进步，学会分享。</li><li>要有坚定的目标，不要好高骛远一下学太多，要精通。</li><li>收藏从未停止，学习从未开始。</li><li>数学很重要，但不绝对重要。</li></ol><p>学习总结自 <a href="https://www.bilibili.com/video/BV1h54y117DX">19年程序老司机忠告</a></p>]]></content>
-      
-      
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>blog-基于hexo博客框架的开发笔记</title>
-      <link href="/2021/07/21/blog-%E5%9F%BA%E4%BA%8Ehexo%E5%8D%9A%E5%AE%A2%E6%A1%86%E6%9E%B6%E7%9A%84%E5%BC%80%E5%8F%91%E7%AC%94%E8%AE%B0/"/>
-      <url>/2021/07/21/blog-%E5%9F%BA%E4%BA%8Ehexo%E5%8D%9A%E5%AE%A2%E6%A1%86%E6%9E%B6%E7%9A%84%E5%BC%80%E5%8F%91%E7%AC%94%E8%AE%B0/</url>
-      
-        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><ol><li><ul><li>node.js安装</li><li>git安装</li></ul></li><li><ul><li><p>cnpm安装：</p><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">npm install -g cnpm --registry-https:&#x2F;&#x2F;registry.npm.taobao.org</span><br></pre></td></tr></table></figure></li><li><p>hexo安装：</p><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">cnpm install -g hexo-cli</span><br></pre></td></tr></table></figure><p>p.s.注意在命令行窗口cmd中执行</p><p>npm:全称是 Node Package Manager 详细解释可见<a href="https://zhuanlan.zhihu.com/p/24357770">npm 是干什么的？</a><br>cnpm：由于npm下载速度过慢，Alibaba为方便程序员们设置的镜像&gt;来自官网：“这是一个完整 <a href="http://npmjs.org/">http://npmjs.org</a> 镜像，你可以用此代替官方版本(只读)，同步频率目前为 10分钟 一次以保证尽量与官方服务同步。</p></li></ul></li></ol><a id="more"></a><ol start="3"><li><ul><li>创建博客文件夹：  <figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">mkdir blog</span><br></pre></td></tr></table></figure></li><li>进入blog目录：    <figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">cd blog\</span><br></pre></td></tr></table></figure></li></ul></li><li><ul><li>博客初始化：  <figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">hexo init</span><br></pre></td></tr></table></figure></li><li>博客启动：    <figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">hexo s</span><br></pre></td></tr></table></figure></li></ul></li><li><p>博客远端部署：</p><ul><li><p>创建repository：注意名字必须为你的Github用户名.github.io</p></li><li><p>配置 SSH key</p></li><li><p>测试是否成功：  </p><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">ssh -T git@github.com</span><br></pre></td></tr></table></figure></li><li><p>配置 Git 提交的用户信息： </p><ol><li><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">git config --global user.name &quot;Eloi0424&quot; &#x2F;&#x2F; 你的github用户名，非昵称</span><br></pre></td></tr></table></figure></li><li><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">git config --global user.email  &quot;xxx@qq.com&quot; &#x2F;&#x2F; 填写你的github注册邮箱</span><br></pre></td></tr></table></figure></li></ol></li><li><p>将 Hexo 博客部署到 Github 上</p></li><li><p>关于hexo d后出现ERROR Deployer not found git的解决办法</p><ol><li><p>修改站点配置文件config.yml</p><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br></pre></td><td class="code"><pre><span class="line">deploy:</span><br><span class="line">    type: git</span><br><span class="line">    repo: git@github.com:lanlan2017&#x2F;lanlan2017.github.io.git  # Github pages地址</span><br><span class="line">    branch: master</span><br></pre></td></tr></table></figure></li><li><p>由于未安装 hexo-deployer-git<br>可通过</p><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">cnpm install hexo-deployer-git--save</span><br></pre></td></tr></table></figure><p>解决</p></li><li><p>若前两种方法都无法解决，可通过</p><ol><li>重装hexo</li><li>重装git and nodejs</li></ol><p>强调：重装完git and nodejs后一定要重装hexo</p></li></ol></li></ul></li></ol><p>这里推荐一个非常好的blog搭建教程<a href="https://blog.bestzuo.cn/posts/blog-establish.html">Hexo博客+Next主题深度优化与定制</a>  </p>]]></content>
-      
-      
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>P2404 自然数的拆分问题(简单BFS)</title>
-      <link href="/2021/07/21/P2404%20%E8%87%AA%E7%84%B6%E6%95%B0%E7%9A%84%E6%8B%86%E5%88%86%E9%97%AE%E9%A2%98(%E7%AE%80%E5%8D%95BFS)/"/>
-      <url>/2021/07/21/P2404%20%E8%87%AA%E7%84%B6%E6%95%B0%E7%9A%84%E6%8B%86%E5%88%86%E9%97%AE%E9%A2%98(%E7%AE%80%E5%8D%95BFS)/</url>
-      
-        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><h1 id="P2404-自然数的拆分问题-简单BFS"><a href="#P2404-自然数的拆分问题-简单BFS" class="headerlink" title="P2404 自然数的拆分问题(简单BFS)"></a>P2404 自然数的拆分问题(简单BFS)</h1><h3 id="题目来源：洛谷P2404"><a href="#题目来源：洛谷P2404" class="headerlink" title="题目来源：洛谷P2404"></a>题目来源：洛谷P2404</h3><a id="more"></a><h3 id="题目描述："><a href="#题目描述：" class="headerlink" title="题目描述："></a>题目描述：</h3><p>任何一个大于1的自然数n，总可以拆分成若干个小于n的自然数之和。<br>现在给你一个自然数n，要求你求出n的拆分成一些数字的和。<br>每个拆分后的序列中的数字从小到大排序。<br>然后你需要输出这些序列，其中字典序小的序列需要优先输出。</p><h3 id="输入格式："><a href="#输入格式：" class="headerlink" title="输入格式："></a>输入格式：</h3><p>输入：待拆分的自然数n。  </p><h3 id="输出格式："><a href="#输出格式：" class="headerlink" title="输出格式："></a>输出格式：</h3><p>输出：若干数的加法式子。  </p>]]></content>
-      
-      
-      
-    </entry>
-    
-    
-  
-  
+<search>
+  <entry>
+    <title>博客介绍</title>
+    <url>/2021/07/21/my_blog_introduction/</url>
+    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><h3 id="眼里有光，才能不忘记来时的方向"><a href="#眼里有光，才能不忘记来时的方向" class="headerlink" title="眼里有光，才能不忘记来时的方向"></a>眼里有光，才能不忘记来时的方向</h3><h4 id="blog主要方向"><a href="#blog主要方向" class="headerlink" title="blog主要方向"></a>blog主要方向</h4><h5 id="1-学习笔记"><a href="#1-学习笔记" class="headerlink" title="1.学习笔记"></a>1.学习笔记</h5><p>这里会记录一些我在学习中的</p>
+<a id="more"></a>
+
+<h5 id="2-学习感悟"><a href="#2-学习感悟" class="headerlink" title="2.学习感悟"></a>2.学习感悟</h5><h5 id="3-生活感悟"><a href="#3-生活感悟" class="headerlink" title="3.生活感悟"></a>3.生活感悟</h5>]]></content>
+  </entry>
+  <entry>
+    <title>let&#39;s do it</title>
+    <url>/2021/07/21/%E5%89%8D%E7%AB%AF%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/</url>
+    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><ol>
+<li>标签：<ul>
+<li>标题标签：<pre><code>     &lt;h1&gt; &lt;/h1&gt;最大
+     ~
+     &lt;h6&gt; &lt;/h6&gt;最小</code></pre>
+</li>
+<li>段落标签：<pre><code>     &lt;p&gt; &lt;p&gt;</code></pre>
+</li>
+<li>换行标签：<pre><code>     &lt;br/&gt;
+     为自闭合标签</code></pre>
+<a id="more"></a></li>
+<li>文本格式化标签：<pre><code>    1. 加粗 blod 
+      &lt;b&gt;...&lt;/b&gt;
+    2. 倾斜 incline 
+      &lt;i&gt;...&lt;/i&gt;
+    3. 删除 strike out 
+      &lt;s&gt;...&lt;/s&gt;
+    4. 下划线 underline 
+      &lt;u&gt;...&lt;/u&gt;</code></pre>
+</li>
+<li>盒子标签 用来布局<pre><code>    1. 
+    &lt;div&gt;...&lt;/div&gt;
+    大盒子独占一行
+    division 分割，分区
+    2. 
+    &lt;span&gt;...&lt;/span&gt;
+    小盒子，中间隔一个空格
+    span，跨度，跨距</code></pre>
+</li>
+<li>图像标签<pre><code>    &lt;img /&gt;
+    为自闭合标签</code></pre>
+</li>
+<li>图像标签的其他属性<pre><code>    1. src 图片路径 提示图片地址</code></pre>
+</li>
+</ul>
+</li>
+</ol>
+]]></content>
+  </entry>
+  <entry>
+    <title>blog-基于hexo博客框架的开发笔记</title>
+    <url>/2021/07/21/blog-%E5%9F%BA%E4%BA%8Ehexo%E5%8D%9A%E5%AE%A2%E6%A1%86%E6%9E%B6%E7%9A%84%E5%BC%80%E5%8F%91%E7%AC%94%E8%AE%B0/</url>
+    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><ol>
+<li><ul>
+<li>node.js安装</li>
+<li>git安装</li>
+</ul>
+</li>
+<li><ul>
+<li><p>cnpm安装：</p>
+<figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">npm install -g cnpm --registry-https:&#x2F;&#x2F;registry.npm.taobao.org</span><br></pre></td></tr></table></figure></li>
+<li><p>hexo安装：</p>
+<figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">cnpm install -g hexo-cli</span><br></pre></td></tr></table></figure>
+<p>p.s.注意在命令行窗口cmd中执行</p>
+<p>npm:全称是 Node Package Manager 详细解释可见<a href="https://zhuanlan.zhihu.com/p/24357770">npm 是干什么的？</a><br>cnpm：由于npm下载速度过慢，Alibaba为方便程序员们设置的镜像&gt;来自官网：“这是一个完整 <a href="http://npmjs.org/">http://npmjs.org</a> 镜像，你可以用此代替官方版本(只读)，同步频率目前为 10分钟 一次以保证尽量与官方服务同步。</p>
+</li>
+</ul>
+</li>
+</ol>
+<a id="more"></a>
+
+<ol start="3">
+<li><ul>
+<li>创建博客文件夹：  <figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">mkdir blog</span><br></pre></td></tr></table></figure></li>
+<li>进入blog目录：    <figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">cd blog\</span><br></pre></td></tr></table></figure></li>
+</ul>
+</li>
+<li><ul>
+<li>博客初始化：  <figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">hexo init</span><br></pre></td></tr></table></figure></li>
+<li>博客启动：    <figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">hexo s</span><br></pre></td></tr></table></figure></li>
+</ul>
+</li>
+<li><p>博客远端部署：</p>
+<ul>
+<li><p>创建repository：注意名字必须为你的Github用户名.github.io</p>
+</li>
+<li><p>配置 SSH key</p>
+</li>
+<li><p>测试是否成功：  </p>
+<figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">ssh -T git@github.com</span><br></pre></td></tr></table></figure></li>
+<li><p>配置 Git 提交的用户信息： </p>
+<ol>
+<li><figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">git config --global user.name &quot;Eloi0424&quot; &#x2F;&#x2F; 你的github用户名，非昵称</span><br></pre></td></tr></table></figure></li>
+<li><figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">git config --global user.email  &quot;xxx@qq.com&quot; &#x2F;&#x2F; 填写你的github注册邮箱</span><br></pre></td></tr></table></figure></li>
+</ol>
+</li>
+<li><p>将 Hexo 博客部署到 Github 上</p>
+</li>
+<li><p>关于hexo d后出现ERROR Deployer not found git的解决办法</p>
+<ol>
+<li><p>修改站点配置文件config.yml</p>
+<figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">deploy:</span><br><span class="line">    type: git</span><br><span class="line">    repo: git@github.com:lanlan2017&#x2F;lanlan2017.github.io.git  # Github pages地址</span><br><span class="line">    branch: master</span><br></pre></td></tr></table></figure></li>
+<li><p>由于未安装 hexo-deployer-git<br>可通过</p>
+<figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">cnpm install hexo-deployer-git--save</span><br></pre></td></tr></table></figure>
+<p>解决</p>
+</li>
+<li><p>若前两种方法都无法解决，可通过</p>
+<ol>
+<li>重装hexo</li>
+<li>重装git and nodejs</li>
+</ol>
+<p>强调：重装完git and nodejs后一定要重装hexo</p>
+</li>
+</ol>
+</li>
+</ul>
+</li>
+</ol>
+<p>这里推荐一个非常好的blog搭建教程<a href="https://blog.bestzuo.cn/posts/blog-establish.html">Hexo博客+Next主题深度优化与定制</a>  </p>
+]]></content>
+  </entry>
+  <entry>
+    <title>P2404 自然数的拆分问题(简单BFS)</title>
+    <url>/2021/07/21/P2404%20%E8%87%AA%E7%84%B6%E6%95%B0%E7%9A%84%E6%8B%86%E5%88%86%E9%97%AE%E9%A2%98(%E7%AE%80%E5%8D%95BFS)/</url>
+    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><h1 id="P2404-自然数的拆分问题-简单BFS"><a href="#P2404-自然数的拆分问题-简单BFS" class="headerlink" title="P2404 自然数的拆分问题(简单BFS)"></a>P2404 自然数的拆分问题(简单BFS)</h1><h3 id="题目来源：洛谷P2404"><a href="#题目来源：洛谷P2404" class="headerlink" title="题目来源：洛谷P2404"></a>题目来源：洛谷P2404</h3><a id="more"></a>
+
+<h3 id="题目描述："><a href="#题目描述：" class="headerlink" title="题目描述："></a>题目描述：</h3><p>任何一个大于1的自然数n，总可以拆分成若干个小于n的自然数之和。<br>现在给你一个自然数n，要求你求出n的拆分成一些数字的和。<br>每个拆分后的序列中的数字从小到大排序。<br>然后你需要输出这些序列，其中字典序小的序列需要优先输出。</p>
+<h3 id="输入格式："><a href="#输入格式：" class="headerlink" title="输入格式："></a>输入格式：</h3><p>输入：待拆分的自然数n。  </p>
+<h3 id="输出格式："><a href="#输出格式：" class="headerlink" title="输出格式："></a>输出格式：</h3><p>输出：若干数的加法式子。  </p>
+]]></content>
+  </entry>
+  <entry>
+    <title>计算机科学与技术学习中的误区</title>
+    <url>/2021/07/21/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%A7%91%E5%AD%A6%E4%B8%8E%E6%8A%80%E6%9C%AF%E5%AD%A6%E4%B9%A0%E4%B8%AD%E7%9A%84%E8%AF%AF%E5%8C%BA/</url>
+    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><ol>
+<li>计算机基础很重要，很重要，如：操作系统，计算机网络等。</li>
+<li>没有好与坏的编程语言之分，只有什么样的语言适合什么样的应用场景。</li>
+<li>只看不练是无法融会贯通知识的，要学会边学边练，边应用。</li>
+<li>不要被各种框架给限制住了，要灵活多变，不要太死板。</li>
+<li>要学会对知识进行归纳总结，记录并转化为，内化为自己的知识。</li>
+</ol>
+<p>p.s. 以后上课都要养成记笔记的习惯，准备一张A4纸，从现在开始记笔记。<br>但保持畅通的上课思路也很重要，听课为主，记笔记只是提炼，凝练知识。</p>
+<a id="more"></a>
+
+<ol start="6">
+<li>学知识要学会注重理解中记忆，不要死记硬背。</li>
+<li>要学会面对错误，积极纠错，才能进步。</li>
+<li>要学会合作，共同进步，学会分享。</li>
+<li>要有坚定的目标，不要好高骛远一下学太多，要精通。</li>
+<li>收藏从未停止，学习从未开始。</li>
+<li>数学很重要，但不绝对重要。</li>
+</ol>
+<p>学习总结自 <a href="https://www.bilibili.com/video/BV1h54y117DX">19年程序老司机忠告</a></p>
+]]></content>
+  </entry>
 </search>
