@@ -1,6 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title>P2404 自然数的拆分问题(简单BFS)</title>
+    <url>/2021/07/21/P2404%20%E8%87%AA%E7%84%B6%E6%95%B0%E7%9A%84%E6%8B%86%E5%88%86%E9%97%AE%E9%A2%98(%E7%AE%80%E5%8D%95BFS)/</url>
+    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><h1 id="P2404-自然数的拆分问题-简单BFS"><a href="#P2404-自然数的拆分问题-简单BFS" class="headerlink" title="P2404 自然数的拆分问题(简单BFS)"></a>P2404 自然数的拆分问题(简单BFS)</h1><h3 id="题目来源：洛谷P2404"><a href="#题目来源：洛谷P2404" class="headerlink" title="题目来源：洛谷P2404"></a>题目来源：洛谷P2404</h3><a id="more"></a>
+
+<h3 id="题目描述："><a href="#题目描述：" class="headerlink" title="题目描述："></a>题目描述：</h3><p>任何一个大于1的自然数n，总可以拆分成若干个小于n的自然数之和。<br>现在给你一个自然数n，要求你求出n的拆分成一些数字的和。<br>每个拆分后的序列中的数字从小到大排序。<br>然后你需要输出这些序列，其中字典序小的序列需要优先输出。</p>
+<h3 id="输入格式："><a href="#输入格式：" class="headerlink" title="输入格式："></a>输入格式：</h3><p>输入：待拆分的自然数n。  </p>
+<h3 id="输出格式："><a href="#输出格式：" class="headerlink" title="输出格式："></a>输出格式：</h3><p>输出：若干数的加法式子。  </p>
+]]></content>
+  </entry>
+  <entry>
     <title>blog-基于hexo博客框架的开发笔记</title>
     <url>/2021/07/21/blog-%E5%9F%BA%E4%BA%8Ehexo%E5%8D%9A%E5%AE%A2%E6%A1%86%E6%9E%B6%E7%9A%84%E5%BC%80%E5%8F%91%E7%AC%94%E8%AE%B0/</url>
     <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><ol>
@@ -70,16 +80,6 @@
 </li>
 </ol>
 <p>这里推荐一个非常好的blog搭建教程<a href="https://blog.bestzuo.cn/posts/blog-establish.html">Hexo博客+Next主题深度优化与定制</a>  </p>
-]]></content>
-  </entry>
-  <entry>
-    <title>P2404 自然数的拆分问题(简单BFS)</title>
-    <url>/2021/07/21/P2404%20%E8%87%AA%E7%84%B6%E6%95%B0%E7%9A%84%E6%8B%86%E5%88%86%E9%97%AE%E9%A2%98(%E7%AE%80%E5%8D%95BFS)/</url>
-    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><h1 id="P2404-自然数的拆分问题-简单BFS"><a href="#P2404-自然数的拆分问题-简单BFS" class="headerlink" title="P2404 自然数的拆分问题(简单BFS)"></a>P2404 自然数的拆分问题(简单BFS)</h1><h3 id="题目来源：洛谷P2404"><a href="#题目来源：洛谷P2404" class="headerlink" title="题目来源：洛谷P2404"></a>题目来源：洛谷P2404</h3><a id="more"></a>
-
-<h3 id="题目描述："><a href="#题目描述：" class="headerlink" title="题目描述："></a>题目描述：</h3><p>任何一个大于1的自然数n，总可以拆分成若干个小于n的自然数之和。<br>现在给你一个自然数n，要求你求出n的拆分成一些数字的和。<br>每个拆分后的序列中的数字从小到大排序。<br>然后你需要输出这些序列，其中字典序小的序列需要优先输出。</p>
-<h3 id="输入格式："><a href="#输入格式：" class="headerlink" title="输入格式："></a>输入格式：</h3><p>输入：待拆分的自然数n。  </p>
-<h3 id="输出格式："><a href="#输出格式：" class="headerlink" title="输出格式："></a>输出格式：</h3><p>输出：若干数的加法式子。  </p>
 ]]></content>
   </entry>
   <entry>
